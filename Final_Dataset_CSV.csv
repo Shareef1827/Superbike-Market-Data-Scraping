@@ -1,0 +1,289 @@
+,Brand,Model,Price,Location,Engine,Model Year,Fuel Type
+0,Royal,Royal Enfield Continental GT 650cc ,"2,95,000",mumbai, 650cc,2019,petrol
+1,Harley-Davidson,Harley-Davidson Street 750 ,"3,20,000",hyderabad, 750,2015,petrol
+2,Royal,Royal Enfield Interceptor 650cc ,"3,10,000",hyderabad, 650cc,2022,petrol
+3,BMW,BMW G310 RR Standard ,"3,10,000",hyderabad,,2023,petrol
+4,Royal,Royal Enfield Continental GT 650cc ,"3,40,000",mumbai, 650cc,2020,petrol
+5,Benelli,Benelli TNT 300 ,"2,35,000",bangalore, 300,2018,petrol
+6,BMW,BMW F900R ,"8,50,000",mumbai,,2020,petrol
+7,BMW,BMW F900XR ,"10,50,000",mumbai,,2020,petrol
+8,Benelli,Benelli 302R 300CC ,"2,90,000",mumbai, 302,2019,petrol
+9,Harley-Davidson,Harley-Davidson Street 750 ABS ,"4,52,000",bangalore, 750 ABS,2020,petrol
+10,Triumph,Triumph Speed 400 STD ,"2,84,000",bangalore, 400,2023,petrol
+11,Kawasaki,Kawasaki Ninja 300 BS6 ,"3,58,000",mumbai, 300,2021,petrol
+12,Royal,Royal Enfield Continental GT 650cc ,"3,10,000",mumbai, 650cc,2019,petrol
+13,Kawasaki,Kawasaki Versys 650cc ,"6,55,000",mumbai, 650cc,2019,petrol
+14,Kawasaki,Kawasaki Ninja 650cc ,"5,95,000",mumbai, 650cc,2020,petrol
+15,Royal,Royal Enfield Continental GT 650cc ,"3,75,000",mumbai, 650cc,2022,petrol
+16,Royal,Royal Enfield Continental GT 650cc ,"2,80,000",bangalore, 650cc,2019,petrol
+17,Royal,Royal Enfield Continental GT 650cc ,"3,72,000",mumbai, 650cc,2022,petrol
+18,BMW,BMW G 310 R BS6 ,"2,87,000",mumbai, 310 R,2021,petrol
+19,Royal,Royal Enfield Interceptor 650cc ,"3,55,000",mumbai, 650cc,2022,petrol
+20,Harley-Davidson,Harley-Davidson Street Rod ,"10,90,000",mumbai,,2019,petrol
+21,Royal,Royal Enfield Continental GT 650cc ,"3,02,000",hyderabad, 650cc,2022,petrol
+22,Royal,Royal Enfield Interceptor 650cc BS6 ,"3,20,000",bangalore, 650cc,2021,petrol
+23,Benelli,Benelli TNT 300 ABS ,"2,62,000",bangalore, 300 ABS,2019,petrol
+24,Kawasaki,Kawasaki Ninja 1000 ,"9,40,000",mumbai, 100,2019,petrol
+25,Harley-Davidson,Harley-Davidson Superlow ,"3,60,000",mumbai,,2012,petrol
+26,Royal,Royal Enfield Interceptor 650cc ,"2,80,000",mumbai, 650cc,2019,petrol
+27,Harley-Davidson,Harley-Davidson Street 750 ,"3,10,000",mumbai, 750,2015,petrol
+28,Kawasaki,Kawasaki Z800 ,"6,70,000",mumbai,,2015,petrol
+29,Kawasaki,Kawasaki Ninja 650 STD ,"7,40,000",mumbai, 650,2022,petrol
+30,Harley-Davidson,Harley-Davidson Street 750 ,"3,00,000",bangalore, 750,2014,petrol
+31,Benelli,Benelli Leoncino 500cc ,"3,75,000",hyderabad, 500cc,2019,petrol
+32,Hyosung,Hyosung GT250R ,"1,30,000",bangalore,,2015,petrol
+33,Royal,Royal Enfield Interceptor 650cc BS6 ,"2,85,000",bangalore, 650cc,2020,petrol
+34,Royal,Royal Enfield Interceptor 650cc ,"3,59,000",mumbai, 650cc,2023,petrol
+35,Royal,Royal Enfield Continental GT 650cc ,"3,12,000",mumbai, 650cc,2022,petrol
+36,Harley-Davidson,Harley-Davidson XL 1200 STD ,"8,30,000",bangalore, 120,2020,petrol
+37,Royal,Royal Enfield Interceptor 650cc ,"2,60,000",bangalore, 650cc,2020,petrol
+38,Harley-Davidson,Harley-Davidson Street 750 ,"4,05,000",bangalore, 750,2019,petrol
+39,Royal,Royal Enfield Interceptor 650cc BS6 ,"2,90,000",bangalore, 650cc,2021,petrol
+40,Kawasaki,Kawasaki Ninja 300cc ,"2,25,000",bangalore, 300cc,2017,petrol
+41,Kawasaki,Kawasaki Vulcan S 650cc ,"5,05,000",mumbai, 650cc,2018,petrol
+42,Royal,Royal Enfield Interceptor Chrome ,"2,71,000",mumbai,,2019,petrol
+43,Royal,Royal Enfield Interceptor 650cc ,"2,60,000",mumbai, 650cc,2019,petrol
+44,BMW,BMW G 310 R ,"3,38,000",bangalore, 310 R,2022,petrol
+45,Royal,Royal Enfield Interceptor Chrome BS6 ,"2,99,415",bangalore,,2021,petrol
+46,Royal,Royal Enfield Interceptor 650cc ,"2,75,600",bangalore, 650cc,2019,petrol
+47,Royal,Royal Enfield Interceptor 650cc ,"2,84,500",bangalore, 650cc,2019,petrol
+48,Royal,Royal Enfield Interceptor 650cc ,"2,77,200",bangalore, 650cc,2019,petrol
+49,Royal,Royal Enfield Interceptor 650cc BS6 ,"3,32,800",bangalore, 650cc,2021,petrol
+50,Royal,Royal Enfield Interceptor 650cc ,"2,43,360",bangalore, 650cc,2019,petrol
+51,Royal,Royal Enfield Interceptor 650cc ,"2,83,500",bangalore, 650cc,2019,petrol
+52,Kawasaki,Kawasaki Ninja 300cc ,"2,53,760",bangalore, 300cc,2017,petrol
+53,Royal,Royal Enfield Interceptor 650cc ,"3,10,000",hyderabad, 650cc,2019,petrol
+54,BenelliImperiale,BenelliImperiale 400 BS6 ,"1,88,000",hyderabad, 400,2020,petrol
+55,Regal,Regal Raptor Daytona 350 ,"2,23,000",hyderabad, 350,2017,petrol
+56,Harley-Davidson,Harley-Davidson 1200 Custom ,"10,23,750",bangalore, 120,2020,petrol
+57,Benelli,Benelli TNT 300 ABS ,"3,22,400",mumbai, 300 ABS,2019,petrol
+58,Royal,Royal Enfield Interceptor 650cc ,"2,49,600",mumbai, 650cc,2019,petrol
+59,BMW,BMW G 310 R BS6 ,"3,01,600",mumbai, 310 R,2021,petrol
+60,Royal,Royal Enfield Interceptor 650cc ,"2,73,520",bangalore, 650cc,2020,petrol
+61,Royal,Royal Enfield Continental GT 650cc BS6 ,"3,46,320",bangalore, 650cc,2021,petrol
+62,Royal,Royal Enfield Interceptor 650cc ,"3,01,600",mumbai, 650cc,2019,petrol
+63,Royal,Royal Enfield Continental GT 650cc ,"3,22,400",mumbai, 650cc,2020,petrol
+64,Royal,Royal Enfield Interceptor 650cc BS6 ,"3,22,400",mumbai, 650cc,2021,petrol
+65,Royal,Royal Enfield Interceptor 650cc ,"3,12,000",mumbai, 650cc,2020,petrol
+66,Kawasaki,Kawasaki Ninja 300 ,"3,90,000",mumbai, 300,2022,petrol
+67,Kawasaki,Kawasaki Z650 ,"4,94,000",mumbai,,2019,petrol
+68,Kawasaki,Kawasaki Z900 ,"7,59,200",mumbai,,2017,petrol
+69,Royal,Royal Enfield Interceptor 650cc BS6 ,"3,40,000",bangalore, 650cc,2021,petrol
+70,Benelli,Benelli 302R 300CC ,"2,34,000",bangalore, 302,2018,petrol
+71,Harley-Davidson,Harley-Davidson Sportster 883 ,"5,55,000",bangalore, 883,2016,petrol
+72,Royal,Royal Enfield Interceptor 650cc ,"2,75,000",bangalore, 650cc,2020,petrol
+73,Royal,Royal Enfield Interceptor 650cc ,"2,39,200",bangalore, 650cc,2019,petrol
+74,Royal,Royal Enfield Interceptor 650cc ,"2,73,000",bangalore, 650cc,2020,petrol
+75,Harley-Davidson,Harley-Davidson XG750 750cc ,"3,07,000",bangalore, 750cc,2016,petrol
+76,Hyosung,Hyosung Aquila GV250 ,"1,00,000",mumbai,,2014,petrol
+77,Triumph,Triumph Daytona 675 ABS ,"8,37,400",mumbai, 675 ABS,2016,petrol
+78,Ducati,Ducati Scrambler Classic ,"5,24,700",mumbai,,2015,petrol
+79,Kawasaki,Kawasaki Versys 650cc ,"6,09,500",mumbai, 650cc,2016,petrol
+80,Triumph,Triumph Street Triple S ,"8,21,500",mumbai,,2017,petrol
+81,Triumph,Triumph Bonneville T100 865cc ,"3,97,500",mumbai, 865cc,2014,petrol
+82,Ducati,Ducati Panigale 959 ,"11,66,000",mumbai, 959,2016,petrol
+83,Kawasaki,Kawasaki Z1000 ,"8,69,200",mumbai,,2014,petrol
+84,Triumph,Triumph Bonneville T120 ,"7,52,600",mumbai,,2016,petrol
+85,Kawasaki,Kawasaki Ninja ZX-10R ,"13,67,400",mumbai,,2017,petrol
+86,Royal,Royal Enfield Interceptor 650cc ,"3,04,500",mumbai, 650cc,2019,petrol
+87,BMW,BMW G 310 R ,"2,36,250",mumbai, 310 R,2019,petrol
+88,Kawasaki,Kawasaki Z900 ,"10,50,000",mumbai,,2020,petrol
+89,Kawasaki,Kawasaki Z650 ,"3,93,750",mumbai,,2018,petrol
+90,Kawasaki,Kawasaki Z800 ,"6,36,000",mumbai,,2016,petrol
+91,Harley-Davidson,Harley-Davidson 1200 Custom ,"6,89,000",mumbai, 120,2016,petrol
+92,Triumph,Triumph Bonneville T100 900cc ,"6,89,000",mumbai, 900cc,2017,petrol
+93,BMW,BMW F850 GS 850cc ,"14,57,500",mumbai, 850cc,2019,petrol
+94,BMW,BMW R 1200 GS ,"16,43,000",mumbai, 1200 GS,2018,petrol
+95,Kawasaki,Kawasaki Versys 650cc ,"5,83,000",mumbai, 650cc,2016,petrol
+96,Ducati,Ducati Scrambler Classic ,"5,30,000",mumbai,,2017,petrol
+97,Ducati,Ducati Multistrada 950 ,"8,42,700",mumbai, 950,2017,petrol
+98,Suzuki,Suzuki GSX-S 1000F ,"7,15,500",mumbai, 100,2015,petrol
+99,Harley-Davidson,Harley-Davidson 1200 Custom ,"7,15,500",mumbai, 120,2018,petrol
+100,Ducati,Ducati Diavel Carbon ,"9,69,900",mumbai,,2016,petrol
+101,Triumph,Triumph Street Scrambler 900cc ,"7,84,400",mumbai, 900cc,2019,petrol
+102,Triumph,Triumph Bonneville T100 900cc ,"5,03,500",mumbai, 900cc,2015,petrol
+103,Kawasaki,Kawasaki Versys 1000 ,"7,95,000",mumbai, 100,2017,petrol
+104,Kawasaki,Kawasaki Z800 ,"6,20,100",mumbai,,2015,petrol
+105,Honda,Honda CB 1000R ,"4,77,000",mumbai, 100,2010,petrol
+106,Ducati,Ducati Diavel 1200cc ,"8,48,000",mumbai, 1200cc,2015,petrol
+107,Triumph,Triumph Street Triple 765 ,"8,74,500",mumbai, 765,2018,petrol
+108,Kawasaki,Kawasaki Ninja 1000 ,"8,74,500",mumbai, 100,2019,petrol
+109,Harley-Davidson,Harley-Davidson Fat Boy ,"8,26,800",mumbai,,2015,petrol
+110,Triumph,Triumph Tiger Explorer ,"9,27,500",mumbai,,2015,petrol
+111,Kawasaki,Kawasaki Z1000 ,"8,48,000",mumbai,,2014,petrol
+112,Kawasaki,Kawasaki Z900 ,"7,57,900",mumbai,,2018,petrol
+113,Honda,Honda CBR1000RR Fireblade ,"13,25,000",mumbai,,2017,petrol
+114,Yamaha,Yamaha YZF-R1 1000cc ,"18,76,200",mumbai, 1000cc,2015,petrol
+115,BMW,BMW S 1000 RR ,"18,28,500",mumbai, 1000 R,2018,petrol
+116,Kawasaki,Kawasaki Ninja ZX-10RR ,"15,63,500",mumbai,,2018,petrol
+117,Triumph,Triumph Daytona 675 ABS ,"9,48,700",mumbai, 675 ABS,2016,petrol
+118,Honda,Honda CBR1000RR Fireblade ,"19,02,700",mumbai,,2017,petrol
+119,Harley-Davidson,Harley-Davidson Fat Boy ,"10,86,500",mumbai,,2016,petrol
+120,Kawasaki,Kawasaki Z900 ,"7,56,000",mumbai,,2019,petrol
+121,Suzuki,Suzuki GSX-R 1000cc ,"10,76,250",mumbai, 1000cc,2015,petrol
+122,BMW,BMW F750 GS 850cc ,"13,02,000",mumbai, 850cc,2020,petrol
+123,BMW,BMW F750 GS 850cc ,"11,39,250",mumbai, 850cc,2020,petrol
+124,Kawasaki,Kawasaki Z800 ,"6,56,250",mumbai,,2016,petrol
+125,Ducati,Ducati Scrambler Urban Enduro ,"6,03,750",mumbai,,2017,petrol
+126,Kawasaki,Kawasaki Ninja 400 ,"4,46,250",mumbai, 400,2019,petrol
+127,Triumph,Triumph Street Triple 765 ,"8,66,250",mumbai, 765,2018,petrol
+128,Triumph,Triumph Speed Triple 1050cc ,"5,19,750",mumbai, 1050cc,2017,petrol
+129,Kawasaki,Kawasaki Z800 ,"6,56,250",mumbai,,2016,petrol
+130,Kawasaki,Kawasaki Z800 ,"6,14,250",mumbai,,2015,petrol
+131,BMW,BMW G 310 R ,"2,78,250",mumbai, 310 R,2019,petrol
+132,Triumph,Triumph Street Triple 765 ,"7,35,000",mumbai, 765,2018,petrol
+133,Harley-Davidson,Harley-Davidson 1200 Custom ,"8,85,000",bangalore, 120,2018,petrol
+134,Kawasaki,Kawasaki Ninja ZX-6R ,"12,91,500",mumbai,,2019,petrol
+135,Yamaha,Yamaha FZ1 1000cc ,"5,51,250",mumbai, 1000cc,2011,petrol
+136,Benelli,Benelli TNT 600i ,"5,05,000",bangalore, 600i,2017,petrol
+137,Harley-Davidson,Harley-Davidson Forty Eight ,"7,20,800",mumbai,,2016,petrol
+138,Suzuki,Suzuki Intruder M1800R ,"11,13,000",mumbai,,2015,petrol
+139,Harley-Davidson,Harley-Davidson Fat Boy ,"15,47,600",mumbai,,2018,petrol
+140,Kawasaki,Kawasaki Z1000 ,"9,01,000",mumbai,,2016,petrol
+141,Honda,Honda CBR 1000RR ,"10,60,000",mumbai, 100,2013,petrol
+142,Ducati,Ducati Panigale 959 ,"11,66,000",mumbai, 959,2016,petrol
+143,Suzuki,Suzuki V-Strom 650 XT ,"8,48,000",mumbai, 650,2018,petrol
+144,Kawasaki,Kawasaki Z900 ,"8,90,400",mumbai,,2017,petrol
+145,Honda,Honda CB 1000R ,"5,30,000",mumbai, 100,2010,petrol
+146,Suzuki,Suzuki Hayabusa 1300cc ,"11,13,000",mumbai, 1300cc,2014,petrol
+147,Triumph,Triumph Bonneville T100 900cc ,"4,92,900",mumbai, 900cc,2015,petrol
+148,Suzuki,Suzuki Intruder M1800R ,"7,95,000",mumbai,,2011,petrol
+149,Kawasaki,Kawasaki Ninja 650cc ,"4,77,000",mumbai, 650cc,2018,petrol
+150,BMW,BMW R 1200 GS ,"18,55,000",mumbai, 1200 GS,2018,petrol
+151,Ducati,Ducati SuperSport ,"10,60,000",mumbai,,2018,petrol
+152,BMW,BMW K 1300 R ,"11,66,000",mumbai, 1300 R,2012,petrol
+153,Suzuki,Suzuki Intruder M1800R ,"10,07,000",mumbai,,2013,petrol
+154,Kawasaki,Kawasaki Z800 ,"6,09,500",mumbai,,2015,petrol
+155,Suzuki,Suzuki GSX-R 1000cc ,"12,19,000",mumbai, 1000cc,2015,petrol
+156,Ducati,Ducati Scrambler 1100 ,"8,79,800",mumbai, 110,2020,petrol
+157,BMW,BMW S 1000 R ,"11,13,000",mumbai, 1000 R,2015,petrol
+158,Kawasaki,Kawasaki Versys 1000 ,"12,19,000",mumbai, 100,2019,petrol
+159,Kawasaki,Kawasaki Ninja 400 ,"4,50,500",mumbai, 400,2019,petrol
+160,Triumph,Triumph Tiger 800 XRX ,"13,35,600",mumbai, 800,2020,petrol
+161,Triumph,Triumph Rocket III Roadster ,"14,31,000",mumbai,,2016,petrol
+162,Suzuki,Suzuki Intruder M1800R ,"8,32,100",mumbai,,2013,petrol
+163,Suzuki,Suzuki GSX-S750 ,"7,36,700",mumbai,,2018,petrol
+164,Honda,Honda CB 1000R ,"13,51,500",mumbai, 100,2018,petrol
+165,Triumph,Triumph Street Twin 900cc ,"7,42,000",mumbai, 900cc,2020,petrol
+166,Triumph,Triumph Bonneville T100 900cc ,"4,50,500",mumbai, 900cc,2015,petrol
+167,Ducati,Ducati Diavel XDiavel ,"11,92,500",mumbai,,2016,petrol
+168,Triumph,Triumph Street Triple ABS 675cc ,"6,36,000",mumbai, 675cc,2016,petrol
+169,Triumph,Triumph Street Triple RS ,"10,60,000",mumbai,,2019,petrol
+170,Triumph,Triumph Tiger 800 XR ,"9,54,000",mumbai, 800,2016,petrol
+171,Yamaha,Yamaha YZF R6 600cc ,"10,07,000",mumbai, 600cc,2014,petrol
+172,Honda,Honda Gold Wing GL1800 ,"25,44,000",mumbai,,2016,petrol
+173,Triumph,Triumph Street Twin 900cc ,"5,56,500",mumbai, 900cc,2016,petrol
+174,Honda,Honda CB 1000R ,"5,30,000",mumbai, 100,2010,petrol
+175,BenelliImperiale,BenelliImperiale 400 BS6 ,"1,76,500",hyderabad, 400,2020,petrol
+176,Triumph,Triumph Bonneville Bobber 1200cc ,"8,32,000",mumbai, 1200cc,2017,petrol
+177,Benelli,Benelli TRK 502X ,"6,76,000",mumbai, 502,2020,petrol
+178,Triumph,Triumph Tiger 800 XCX ,"8,29,500",mumbai, 800,2017,petrol
+179,Kawasaki,Kawasaki Z650 ,"4,72,500",mumbai,,2017,petrol
+180,Harley-Davidson,Harley-Davidson Street 750 ,"3,04,500",mumbai, 750,2016,petrol
+181,Harley-Davidson,Harley-Davidson Iron 883 ,"5,51,250",mumbai, 883,2014,petrol
+182,Benelli,Benelli 302R 300CC ,"3,15,000",mumbai, 302,2019,petrol
+183,Ducati,Ducati Monster 797 ,"7,61,250",mumbai, 797,2018,petrol
+184,BMW,BMW G 310 GS ,"3,15,000",mumbai, 310 GS,2019,petrol
+185,BMW,BMW G 310 GS BS6 ,"3,04,500",mumbai, 310 GS,2021,petrol
+186,BMW,BMW G 310 GS ,"2,41,500",mumbai, 310 GS,2019,petrol
+187,BMW,BMW G 310 GS ,"2,52,000",mumbai, 310 GS,2020,petrol
+188,Benelli,Benelli TNT 300 ,"2,20,500",mumbai, 300,2016,petrol
+189,Harley-Davidson,Harley-Davidson Street 750 ABS ,"5,46,000",mumbai, 750 ABS,2020,petrol
+190,Harley-Davidson,Harley-Davidson Iron 883 ,"5,25,000",mumbai, 883,2016,petrol
+191,Harley-Davidson,Harley-Davidson Iron 883 ,"5,51,250",mumbai, 883,2015,petrol
+192,Harley-Davidson,Harley-Davidson Fat Bob ,"11,55,000",mumbai,,2016,petrol
+193,Ducati,Ducati Monster 821 ,"7,87,500",mumbai, 821,2015,petrol
+194,Kawasaki,Kawasaki Z650 ,"4,98,750",mumbai,,2020,petrol
+195,Kawasaki,Kawasaki Z900 ,"8,92,500",mumbai,,2018,petrol
+196,Kawasaki,Kawasaki Ninja 650cc ,"5,77,500",mumbai, 650cc,2018,petrol
+197,Kawasaki,Kawasaki Ninja 300cc ,"2,88,750",mumbai, 300cc,2019,petrol
+198,Royal,Royal Enfield Interceptor 650cc ,"2,88,750",mumbai, 650cc,2019,petrol
+199,Triumph,Triumph Street Twin 900cc ,"7,35,000",mumbai, 900cc,2019,petrol
+200,Triumph,Triumph Bonneville T100 900cc ,"4,72,500",mumbai, 900cc,2015,petrol
+201,Suzuki,Suzuki V-Strom 650 XT ,"9,18,750",mumbai, 650,2020,petrol
+202,Triumph,Triumph Street Twin 900cc ,"6,56,250",mumbai, 900cc,2017,petrol
+203,Kawasaki,Kawasaki Z650 ,"4,98,750",mumbai,,2020,petrol
+204,Royal,Royal Enfield Interceptor 650cc ,"2,70,000",bangalore, 650cc,2019,petrol
+205,Triumph,Triumph Street Triple 675cc ,"5,87,000",bangalore, 675cc,2015,petrol
+206,Kawasaki,Kawasaki Ninja 650cc ,"4,16,000",mumbai, 650cc,2017,petrol
+207,BMW,BMW G 310 R ,"2,60,000",mumbai, 310 R,2019,petrol
+208,Royal,Royal Enfield Interceptor 650cc ,"2,55,000",bangalore, 650cc,2019,petrol
+209,BMW,BMW G 310 R ,"2,39,200",mumbai, 310 R,2019,petrol
+210,Kawasaki,Kawasaki Ninja 300 BS6 ,"3,90,000",mumbai, 300,2021,petrol
+211,Royal,Royal Enfield Continental GT 650cc ,"3,12,000",mumbai, 650cc,2019,petrol
+212,Kawasaki,Kawasaki Z900 ,"8,32,000",mumbai,,2018,petrol
+213,Kawasaki,Kawasaki Z650 ,"3,64,000",mumbai,,2018,petrol
+214,Harley-Davidson,Harley-Davidson Street 750 ,"2,99,250",mumbai, 750,2015,petrol
+215,Benelli,Benelli TNT 300 ,"2,02,312",mumbai, 300,2017,petrol
+216,Royal,Royal Enfield Interceptor 650cc ,"2,96,400",mumbai, 650cc,2020,petrol
+217,Royal,Royal Enfield Interceptor 650cc ,"2,60,000",mumbai, 650cc,2019,petrol
+218,BMW,BMW G 310 R ,"2,45,000",mumbai, 310 R,2019,petrol
+219,Regal,Regal Raptor Daytona 350 ,"2,39,000",hyderabad, 350,2017,petrol
+220,Hyosung,Hyosung Aquila Pro GV650 ,"5,35,000",hyderabad,,2018,petrol
+221,Ducati,Ducati Diavel 1200cc ,"8,35,000",mumbai, 1200cc,2015,petrol
+222,Harley-Davidson,Harley-Davidson Fat Boy ,"10,65,000",mumbai,,2016,petrol
+223,Royal,Royal Enfield Interceptor 650cc ,"2,65,000",bangalore, 650cc,2019,petrol
+224,Benelli,Benelli TNT 600i ,"4,63,500",mumbai, 600i,2016,petrol
+225,Harley-Davidson,Harley-Davidson 1200 Custom ,"7,21,000",mumbai, 120,2018,petrol
+226,Triumph,Triumph Street Twin 900cc ,"6,43,750",mumbai, 900cc,2017,petrol
+227,Kawasaki,Kawasaki Ninja 650cc ,"3,86,250",mumbai, 650cc,2017,petrol
+228,Benelli,Benelli TNT 25 250cc ,"1,15,000",mumbai, 25 ,2017,petrol
+229,Kawasaki,Kawasaki Ninja 650cc ,"4,63,500",mumbai, 650cc,2019,petrol
+230,Kawasaki,Kawasaki Ninja 300cc ,"2,31,750",mumbai, 300cc,2019,petrol
+231,Harley-Davidson,Harley-Davidson Iron 883 ,"5,98,000",mumbai, 883,2015,petrol
+232,Kawasaki,Kawasaki Versys 650cc ,"7,54,000",mumbai, 650cc,2020,petrol
+233,Royal,Royal Enfield Interceptor 650cc ,"2,60,000",mumbai, 650cc,2019,petrol
+234,Benelli,Benelli TNT 25 250cc ,"2,00,000",mumbai, 25 ,2016,petrol
+235,BenelliImperiale,BenelliImperiale 400 BS6 ,"2,07,000",hyderabad, 400,2020,petrol
+236,Husqvarna,Husqvarna Vitpilen 401 ,"2,40,000",bangalore, 401,2021,petrol
+237,Kawasaki,Kawasaki Ninja 300cc ,"3,01,600",mumbai, 300cc,2019,petrol
+238,Suzuki,Suzuki Hayabusa 1300cc ,"13,00,000",mumbai, 1300cc,2017,petrol
+239,Kawasaki,Kawasaki Z900 ,"9,88,000",mumbai,,2020,petrol
+240,Kawasaki,Kawasaki Z650 ,"4,41,500",mumbai,,2018,petrol
+241,Kawasaki,Kawasaki Z650 ,"4,62,300",mumbai,,2020,petrol
+242,Triumph,Triumph Street Triple 765 ,"8,05,500",mumbai, 765,2018,petrol
+243,Kawasaki,Kawasaki ER-6n 650cc ,"2,85,500",mumbai, 650cc,2015,petrol
+244,Kawasaki,Kawasaki Z800 ,"5,66,300",mumbai,,2015,petrol
+245,Royal,Royal Enfield Interceptor 650cc ,"2,54,300",mumbai, 650cc,2019,petrol
+246,BMW,BMW G 310 R ,"2,75,100",mumbai, 310 R,2019,petrol
+247,Benelli,Benelli TNT 600 GT ,"4,25,900",mumbai, 600,2016,petrol
+248,Ducati,Ducati Diavel 1200cc ,"7,58,700",mumbai, 1200cc,2015,petrol
+249,Kawasaki,Kawasaki Vulcan S 650cc ,"4,93,500",mumbai, 650cc,2018,petrol
+250,Triumph,Triumph Tiger Explorer ,"9,09,500",mumbai,,2015,petrol
+251,Kawasaki,Kawasaki Ninja 400 ,"4,41,500",mumbai, 400,2019,petrol
+252,BMW,BMW G 310 GS BS6 ,"2,69,900",mumbai, 310 GS,2020,petrol
+253,Royal,Royal Enfield Interceptor 650cc ,"3,01,100",mumbai, 650cc,2019,petrol
+254,Triumph,Triumph Bonneville T100 900cc ,"8,31,500",mumbai, 900cc,2020,petrol
+255,Triumph,Triumph Street Twin 900cc ,"7,27,500",mumbai, 900cc,2019,petrol
+256,Benelli,Benelli TNT 600i ,"5,97,500",mumbai, 600i,2018,petrol
+257,Royal,Royal Enfield Continental GT 650cc ,"3,10,460",mumbai, 650cc,2020,petrol
+258,Royal,Royal Enfield Interceptor 650cc ,"3,01,100",mumbai, 650cc,2019,petrol
+259,Royal,Royal Enfield Interceptor 650cc ,"2,44,500",bangalore, 650cc,2019,petrol
+260,Royal,Royal Enfield Interceptor 650cc ,"2,39,200",mumbai, 650cc,2019,petrol
+261,Harley-Davidson,Harley-Davidson 1200 Custom ,"7,28,000",mumbai, 120,2018,petrol
+262,Royal,Royal Enfield Interceptor 650cc ,"2,85,000",bangalore, 650cc,2019,petrol
+263,Royal,Royal Enfield Interceptor 650cc ,"2,90,000",bangalore, 650cc,2019,petrol
+264,Royal,Royal Enfield Continental GT 650cc ,"3,00,000",bangalore, 650cc,2019,petrol
+265,Royal,Royal Enfield Continental GT 650cc ,"2,85,500",mumbai, 650cc,2019,petrol
+266,Harley-Davidson,Harley-Davidson Street 750 ABS ,"3,99,900",mumbai, 750 ABS,2018,petrol
+267,Kawasaki,Kawasaki Ninja 300cc ,"2,33,500",mumbai, 300cc,2016,petrol
+268,Kawasaki,Kawasaki Ninja 650cc ,"2,43,900",mumbai, 650cc,2013,petrol
+269,Harley-Davidson,Harley-Davidson Fat Bob ,"6,25,000",mumbai,,2014,petrol
+270,Triumph,Triumph Bonneville T100 900cc ,"3,89,500",mumbai, 900cc,2015,petrol
+271,Triumph,Triumph Street Triple 675cc ,"4,67,500",mumbai, 675cc,2015,petrol
+272,Harley-Davidson,Harley-Davidson Street 750 ,"4,25,900",mumbai, 750,2019,petrol
+273,Kawasaki,Kawasaki Z900 ,"8,83,500",mumbai,,2019,petrol
+274,Hyosung,Hyosung Aquila Pro GV650 ,"2,85,500",mumbai,,2020,petrol
+275,BMW,BMW G 310 R ,"2,43,900",mumbai, 310 R,2019,petrol
+276,Benelli,Benelli TNT 600i ,"4,67,500",mumbai, 600i,2018,petrol
+277,Harley-Davidson,Harley-Davidson Fat Boy ,"9,87,500",mumbai,,2014,petrol
+278,Kawasaki,Kawasaki Versys 650cc ,"6,49,500",mumbai, 650cc,2018,petrol
+279,Kawasaki,Kawasaki Versys 650cc ,"6,24,500",mumbai, 650cc,2018,petrol
+280,Harley-Davidson,Harley-Davidson Iron 883 ,449500₹,bangalore, 883,2014,petrol
+281,Royal,Royal Enfield Interceptor 650cc BS6 ,"2,81,500",bangalore, 650cc,2020,petrol
+282,Royal,Royal Enfield Interceptor 650cc ,"2,54,500",bangalore, 650cc,2019,petrol
+283,Royal,Royal Enfield Continental GT 650cc ,"3,05,710",mumbai, 650cc,2020,petrol
+284,Harley-Davidson,Harley-Davidson XG750 750cc ,"4,65,500",hyderabad, 750cc,2018,petrol
+285,Kawasaki,Kawasaki Ninja 650cc ,"4,92,550",mumbai, 650cc,2020,petrol
+286,Kawasaki,Kawasaki Ninja 300 ABS ,"3,10,900",mumbai, 300 ABS,2019,petrol
+287,Royal,Royal Enfield Interceptor 650cc ,"2,43,430",mumbai, 650cc,2019,petrol
